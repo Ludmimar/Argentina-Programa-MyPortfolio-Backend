@@ -39,3 +39,8 @@ El proyecto implementa un sistema **CRUD completo** para administrar:
 
 ---
 
+📌 Autor
+
+Martos Ludmila
+#### [Linkedin](https://www.linkedin.com/in/ludmimar89/)
+
